@@ -1,15 +1,15 @@
-// Step 1: Import your component
+// Import 
 import * as React from 'react'
 import Layout from '../components/layout'
 
-// Step 2: Define your component
+// Define 
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
-      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
+      <p>My name is Alysia.  I'm a software developer at Epic Systems in Madison, WI.</p>
     </Layout>
   )
 }
 
-// Step 3: Export your component
+// Export 
 export default AboutPage
