@@ -6,8 +6,8 @@ import Layout from '../components/layout'
 // Step 2: Define your component
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
-      <p>Welcome to my web site!</p>
+    <Layout pageTitle="Home">
+      <p>Welcome to the web page!  Please enjoy your visit.</p>
     </Layout>
   )
 }

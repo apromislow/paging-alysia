@@ -24,7 +24,7 @@ const AboutPage = () => {
           <li>Python</li>
           <li>C</li>
         </ul>
-        <p>in order roughly by knowledge level, descending</p>
+        <p>In order roughly by knowledge level, descending</p>
     </Layout>
   )
 }
