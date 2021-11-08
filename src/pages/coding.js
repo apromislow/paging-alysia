@@ -1,6 +1,7 @@
 // Import 
 import * as React from 'react'
 import Layout from '../components/layout'
+import { Link } from 'gatsby'
 
 // Define 
 const AboutPage = () => {
@@ -13,10 +14,7 @@ const AboutPage = () => {
           <li>C# + .NET</li>
           <li>React</li>
           <li>Typescript</li>
-          <li>MUMPS/Cache</li> 
-          {
-            //TODO: add link since no one knows what mumps is
-          }
+          <li>< Link to="https://en.wikipedia.org/wiki/MUMPS">MUMPS</Link> + Cache</li> 
           <li>SQL</li>
           <li>JavaScript</li>
           <li>HTML + CSS</li>
